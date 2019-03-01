@@ -1,0 +1,8 @@
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Domain/bin/Debug/netstandard2.0/ProWishes.Domain.deps.json
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Domain/bin/Debug/netstandard2.0/ProWishes.Domain.dll
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Domain/bin/Debug/netstandard2.0/ProWishes.Domain.pdb
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Domain/obj/Debug/netstandard2.0/ProWishes.Domain.csproj.CoreCompileInputs.cache
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Domain/obj/Debug/netstandard2.0/ProWishes.Domain.AssemblyInfoInputs.cache
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Domain/obj/Debug/netstandard2.0/ProWishes.Domain.AssemblyInfo.cs
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Domain/obj/Debug/netstandard2.0/ProWishes.Domain.dll
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Domain/obj/Debug/netstandard2.0/ProWishes.Domain.pdb

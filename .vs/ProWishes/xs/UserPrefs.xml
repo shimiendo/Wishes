@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0D33575C-46AB-4CF8-9E0E-4B7FA365B372}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProWishes.WebApi/Controllers/UserController.cs">
+    <Files>
+      <File FileName="ProWishes.WebApi/Controllers/UserController.cs" Line="93" Column="36" />
+      <File FileName="ProWishes.Repository/RepositoryUser.cs" Line="34" Column="1" />
+      <File FileName="ProWishes.Repository/PaginatedList.cs" Line="21" Column="76" />
+      <File FileName="ProWishes.Repository/IRepositoryUser.cs" Line="1" Column="1" />
+      <File FileName="ProWishes.Domain/User.cs" Line="11" Column="34" />
+      <File FileName="ProWishes.Domain/Wishe.cs" Line="16" Column="2" />
+      <File FileName="ProWishes.Domain/Product.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.WebApi/Controllers/WisheController.cs" relfile="ProWishes.WebApi/Controllers/WisheController.cs" line="25" column="22" />
+      <Breakpoint file="/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/RepositoryWishe.cs" relfile="ProWishes.Repository/RepositoryWishe.cs" line="37" column="22" />
+      <Breakpoint file="/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.WebApi/Controllers/UserController.cs" relfile="ProWishes.WebApi/Controllers/UserController.cs" line="41" column="19" />
+      <Breakpoint file="/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.WebApi/Controllers/UserController.cs" relfile="ProWishes.WebApi/Controllers/UserController.cs" line="86" column="23" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProWishes.WebApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

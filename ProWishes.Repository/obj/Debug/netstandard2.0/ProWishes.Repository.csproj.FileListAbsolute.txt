@@ -1,0 +1,12 @@
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/bin/Debug/netstandard2.0/ProWishes.Repository.deps.json
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/bin/Debug/netstandard2.0/ProWishes.Repository.dll
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/bin/Debug/netstandard2.0/ProWishes.Repository.pdb
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/bin/Debug/netstandard2.0/ProWishes.Domain.dll
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/bin/Debug/netstandard2.0/ProWishes.Domain.pdb
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/obj/Debug/netstandard2.0/ProWishes.Repository.csprojAssemblyReference.cache
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/obj/Debug/netstandard2.0/ProWishes.Repository.csproj.CoreCompileInputs.cache
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/obj/Debug/netstandard2.0/ProWishes.Repository.AssemblyInfoInputs.cache
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/obj/Debug/netstandard2.0/ProWishes.Repository.AssemblyInfo.cs
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/obj/Debug/netstandard2.0/ProWishes.Repository.csproj.CopyComplete
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/obj/Debug/netstandard2.0/ProWishes.Repository.dll
+/Users/eduardo/Documents/Eduardo_Docs/Wishes/ProWishes.Repository/obj/Debug/netstandard2.0/ProWishes.Repository.pdb
